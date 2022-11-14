@@ -1,9 +1,13 @@
 from os import system
 system('clear') 
 
-ListBuku = {'Kutu Loncat Pohon': ['Yoda Yodiw', 2019], 'Menduakan Hidup': ['Yoshi Ino', 2020],
-        'Data Analyst 101': ['Dion Wiyoko', 2021],
-        'Mengejar Matahari': ['Enzy Naga', 2015], 'The Second You Sleep': ['Matt Skiba', 2017]}
+ListBuku = {
+    'Kutu Loncat Pohon': ['Yoda Yodiw', 2019], 
+    'Menduakan Hidup': ['Yoshi Ino', 2020],
+    'Data Analyst 101': ['Dion Wiyoko', 2021],
+    'Mengejar Matahari': ['Enzy Naga', 2015], 
+    'The Second You Sleep': ['Matt Skiba', 2017]
+}
 
 BukuDiPinjam = {}
 
@@ -75,7 +79,8 @@ def MeminjamBuku():
                 continue
             continue
         continue
-            
+    TampilBuku()
+
 def MenghapusBuku():
     TampilBuku()
     while True:    
