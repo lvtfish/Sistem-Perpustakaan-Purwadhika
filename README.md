@@ -20,14 +20,14 @@
   <p align="center">
     Program perpustakaan sederhana untuk bisa meminjam buku
     <br />
-    <a href=https://github.com/Lakasumtu/Capstone-1-Data-Internal-Karyawan><strong>Explore the docs »</strong></a>
+    <a href=https://github.com/lvtfish/Sistem-Perpustakaan-Purwadhika><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href=https://github.com/Lakasumtu/Capstone-1-Data-Internal-Karyawan>View Demo</a>
+    <a href=https://github.com/lvtfish/Sistem-Perpustakaan-Purwadhika>View Demo</a>
     ·
-    <a href=https://github.com/Lakasumtu/Capstone-1-Data-Internal-Karyawan/issues>Report Bug</a>
+    <a href=https://github.com/lvtfish/Sistem-Perpustakaan-Purwadhika/issues>Report Bug</a>
     ·
-    <a href=https://github.com/Lakasumtu/Capstone-1-Data-Internal-Karyawan/issues>Request Feature</a>
+    <a href=https://github.com/lvtfish/Sistem-Perpustakaan-Purwadhika/issues>Request Feature</a>
   </p>
 </div>
 
