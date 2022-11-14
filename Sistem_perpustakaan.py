@@ -124,4 +124,3 @@ def MenuAwal():
         elif(Menu==5):
             print('Terimakasih sudah berkunjung. Datang kembali untuk meminjam buku di perpustakaan LUTFI MAHATIR') 
             break
-MenuAwal()
