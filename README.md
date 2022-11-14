@@ -15,10 +15,10 @@
 
 
 
-<h3 align="center">Capstone 1 - Data Internal Karyawan</h3>
+<h3 align="center">Capstone Project Purwadhika - Sistem Perpustakaan Sederhana (Peminjaman Buku)</h3>
 
   <p align="center">
-    Sebuah program sederhana untuk melihat dan mengubah data internal karyawan perusahaan
+    Program perpustakaan sederhana untuk bisa meminjam buku
     <br />
     <a href=https://github.com/Lakasumtu/Capstone-1-Data-Internal-Karyawan><strong>Explore the docs »</strong></a>
     <br />
@@ -36,7 +36,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Project ini merupakan sebuah syarat dalam menyelesaikan modul 1 dari program bootcamp di Purwadhika.
+Project ini dibuat dengan tujuan untuk memenuhi syarat menyelesaikan Capstone Project - modul 1 pada bootcamp Data Science, Purwadhika.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -53,19 +53,17 @@ Project ini merupakan sebuah syarat dalam menyelesaikan modul 1 dari program boo
 <!-- GETTING STARTED -->
 ## Getting Started
 
-Dalam program ini terdapat beberapa contoh data karyawan yang telah terinput sejak awal (by default).
-User dapat menghapus data awal dengan fitur yang sudah tersedia.
-
+Program perpustakaan ini berupa sistem perpustakaan sederhana yang berisi data beberapa buku yang bisa dilihat, dipinjam, dihapus, serta dapat menambahkan data baru oleh user.
 
 
 <!-- USAGE EXAMPLES -->
 ## Usage
 
 Dalam program ini terdapat 5 menu utama yaitu:
-1. Menampilkan data
-2. Menambah data
-3. Mengubah data
-4. Menghapus data
+1. Menampilkan buku
+2. Menyumbang buku
+3. Meminjam buku
+4. Menghapus buku
 5. Keluar dari program
 
 
@@ -79,9 +77,9 @@ Dalam program ini terdapat 5 menu utama yaitu:
 <!-- CONTACT -->
 ## Contact
 
-Yoshiando - [@yoshibutler](https://twitter.com/yoshibutler) - yoshiandos@gmail.com
+Lutfi Mahatir - lutfimahatir@gmail.com
 
-Project Link: [Capstone 1](https://github.com/Lakasumtu/Capstone-1-Data-Internal-Karyawan)
+Project Link: [Capstone 1](https://github.com/lvtfish/Sistem-Perpustakaan-Purwadhika/blob/main/Sistem_perpustakaan.py)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -100,7 +98,7 @@ Project Link: [Capstone 1](https://github.com/Lakasumtu/Capstone-1-Data-Internal
 [license-shield]: https://img.shields.io/github/license/github_username/repo_name.svg?style=for-the-badge
 [license-url]: https://github.com/github_username/repo_name/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/yoshiandos
+[linkedin-url]: https://www.linkedin.com/in/lutfimahatir/
 [product-screenshot]: C:\Users\yoshi\OneDrive\Desktop\product.png
 [Next.js]: https://img.shields.io/pypi/pyversions/Django?color=black&label=Python&logo=Python&logoColor=Green&style=flat-square
 [Next-url]: https://www.python.org/
